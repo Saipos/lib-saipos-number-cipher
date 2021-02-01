@@ -1,5 +1,5 @@
 {
-  "name": "saipos-number-cipher",
+  "name": "@saipos/saipos-number-cipher",
   "version": "1.0.0",
   "description": "Simple lib to crypt/decrypt numbers.",
   "keywords": [
@@ -49,5 +49,13 @@
   "directories": {
     "lib": "lib",
     "test": "test"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Saipos/lib-saipos-number-cipher/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saipos/lib-saipos-number-cipher.git"
+  },
+  "homepage": "https://github.com/Saipos/lib-saipos-number-cipher#readme"
 }
